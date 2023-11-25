@@ -1,6 +1,6 @@
 # README
 
-this is a demo rails app, to demonstrate a problem occuring using alias_method in the wrong way.
+this is a demo rails app, to demonstrate a problem occuring using alias_method in the wrong way.  
 after pulling the app, run rails c, create 2 Admin database entries by Admin.create!
 run rails s and visit http://localhost:3000/admin
 you should be able to see the IDs of the 2 admin records created.
